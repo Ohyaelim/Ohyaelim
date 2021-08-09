@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://tistory1.daumcdn.net/tistory/3289494/skin/images/rain_and_flower.gif" align="center" style="width: 100%" />
 </div>  
-  
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ohyaelim)](https://github.com/anuraghazra/github-readme-stats)
 
 ### **<div align="center">🍒 YAELIM's GITHUB 💗</div>**  
   
@@ -67,7 +67,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohyaelim&hide_border=true&layout=compact" align="center" />
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ohyaelim)](https://github.com/anuraghazra/github-readme-stats)</div>  
+  </div>  
 <br />
 
 
