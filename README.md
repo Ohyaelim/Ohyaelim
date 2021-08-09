@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://tistory2.daumcdn.net/tistory/3289494/skin/images/rain_and_flower.gif" align="center" style="width: 100%" />
+<img src="https://tistory1.daumcdn.net/tistory/3289494/skin/images/rain_and_flower.gif" align="center" style="width: 100%" />
 </div>  
   
 
