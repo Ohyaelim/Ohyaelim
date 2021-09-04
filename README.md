@@ -1,10 +1,8 @@
-<div align="center">
-<img src="https://tistory1.daumcdn.net/tistory/3289494/skin/images/rain_and_flower.gif" align="center" style="width: 100%" />
-</div>  
-
-
 ### **<div align="center">🍒 YAELIM's GITHUB 💗</div>**  
-  
+
+<div align="center">
+<img src="http://file3.instiz.net/data/file3/2018/02/04/6/3/2/6320196cfbdae6648bee7f75c4db7c85.gif" align="center" style="width: 50%" />
+</div>  
 
 - 🍒 yaelim's [Blog](https://yaelimeee.tistory.com/)  
   
@@ -69,6 +67,5 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohyaelim&hide_border=true&layout=compact" align="center" />
   </div>  
 <br />
-
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ohyaelim)](https://github.com/anuraghazra/github-readme-stats)
