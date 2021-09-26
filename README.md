@@ -1,9 +1,9 @@
-### **<div align="center">🍒 YAELIM's GITHUB 💗</div>**  
+<!-- ### **<div align="center">🍒 YAELIM's GITHUB 💗</div>**  
 
 <div align="center">
 <img src="http://file3.instiz.net/data/file3/2018/02/04/6/3/2/6320196cfbdae6648bee7f75c4db7c85.gif" align="center" style="width: 50%" />
 </div>  
-
+ -->
 - 🍒 yaelim's [Blog](https://yaelimeee.tistory.com/)  
   
 
