@@ -61,8 +61,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohyaelim&hide_border=true&layout=compact" align="center" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohyaelim&hide_border=true&layout=compact&theme=dracula" align="center" />
   </div>  
 <br />
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ohyaelim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ohyaelim&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
