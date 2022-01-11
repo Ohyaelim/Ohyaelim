@@ -8,7 +8,9 @@
   
 
 - 🌱 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/61bddccf-0d55-4cc6-97f1-4f565ddc3c43/public_url)  
-  
+
+
+- 🌱 [AWS Partner: Accreditation (Business)](https://www.credly.com/badges/93e037eb-9871-4bf8-80c7-473bca54e0c5/public_url)
 
 - ⚡ Majoring Computer Science in SMWU  
   
